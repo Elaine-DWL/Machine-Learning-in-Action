@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3ad0abb-4835-4b29-8319-0ed0ea8c7013" name="Default Changelist" comment="" />
+    <list default="true" id="e3ad0abb-4835-4b29-8319-0ed0ea8c7013" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap02/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap02/kNN.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +16,10 @@
     <session id="-1907130079">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -28,22 +34,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2383" />
+          <entry key="py" value="5378" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2383" />
+          <entry key="Python" value="5378" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adaboost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="209">
               <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding>
                 <marker date="1534473257847" expanded="true" signature="38:43" ph="..." />
@@ -56,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/boost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="646">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -68,13 +74,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap02/kNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="242">
+              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1534992201776" expanded="true" signature="56:119" ph="..." />
-                <marker date="1534992201776" expanded="true" signature="256:261" ph="..." />
-                <marker date="1534992201776" expanded="true" signature="999:1004" ph="..." />
+                <element signature="e#23#42#0" expanded="true" />
+                <marker date="1535303911454" expanded="true" signature="102:165" ph="..." />
+                <marker date="1535303911454" expanded="true" signature="310:315" ph="..." />
+                <marker date="1535303911454" expanded="true" signature="1088:1093" ph="..." />
+                <marker date="1535303911454" expanded="true" signature="1750:1755" ph="..." />
+                <marker date="1535303911454" expanded="true" signature="2079:2084" ph="..." />
+                <marker date="1535303911454" expanded="true" signature="2731:2736" ph="..." />
+                <marker date="1535303911454" expanded="true" signature="3482:3487" ph="..." />
               </folding>
             </state>
           </provider>
@@ -89,6 +99,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -98,12 +111,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="411" />
+    <option name="y" value="141" />
     <option name="width" value="623" />
     <option name="height" value="466" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -189,13 +203,9 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2700893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.26065573" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.43606558" />
@@ -203,6 +213,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23152709" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -214,7 +228,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/adaboost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="209">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding>
             <marker date="1534473257847" expanded="true" signature="38:43" ph="..." />
@@ -225,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/boost.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="646">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -235,13 +249,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap02/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="242">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1534992201776" expanded="true" signature="56:119" ph="..." />
-            <marker date="1534992201776" expanded="true" signature="256:261" ph="..." />
-            <marker date="1534992201776" expanded="true" signature="999:1004" ph="..." />
+            <element signature="e#23#42#0" expanded="true" />
+            <marker date="1535303911454" expanded="true" signature="102:165" ph="..." />
+            <marker date="1535303911454" expanded="true" signature="310:315" ph="..." />
+            <marker date="1535303911454" expanded="true" signature="1088:1093" ph="..." />
+            <marker date="1535303911454" expanded="true" signature="1750:1755" ph="..." />
+            <marker date="1535303911454" expanded="true" signature="2079:2084" ph="..." />
+            <marker date="1535303911454" expanded="true" signature="2731:2736" ph="..." />
+            <marker date="1535303911454" expanded="true" signature="3482:3487" ph="..." />
           </folding>
         </state>
       </provider>
